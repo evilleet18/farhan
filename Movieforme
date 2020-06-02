@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+ <head> 
+  <title> my webpage </title> 
+ </head> 
+ <body style="background-color:  #666699 "> 
+  <style>
+    div{
+      font-size: 100px;
+      text-align: center;
+    }
+    
+     a{
+       
+     
+  color : yellow   ;
+  font-size: 50px ;
+   }
+     </style> 
+  <div> 
+   <b> Movie For me </b> 
+  </div> 
+  <br> 
+  <div> 
+   <a href="google.com">Malayalam </a> &nbsp; 
+   <a href="google.com"> Korean </a> &nbsp; 
+   <a href="google.com"> kannada </a> &nbsp; 
+   <a href="google.com">Hollywood</a> &nbsp; 
+   <a href="google.com">Bollywood</a> &nbsp; 
+   <a href="google.com">bangla </a> &nbsp; 
+   <a href="google.com">kolkata </a> &nbsp; 
+   <a href="google.com">tamil</a> &nbsp; 
+   <a href="google.com">turkish</a> &nbsp; 
+  </div> 
+ </body>
+</html>
